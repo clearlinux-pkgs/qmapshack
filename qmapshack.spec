@@ -7,7 +7,7 @@
 #
 Name     : qmapshack
 Version  : 1.17.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/Maproom/qmapshack/archive/V_1.17.1/qmapshack-1.17.1.tar.gz
 Source0  : https://github.com/Maproom/qmapshack/archive/V_1.17.1/qmapshack-1.17.1.tar.gz
 Summary  : No detailed summary available
